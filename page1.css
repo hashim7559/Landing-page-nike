@@ -1,0 +1,101 @@
+
+.navbar img {
+    margin-top: -25px;
+    height: 90px;
+    width: 90px;
+}
+
+.navbar ul {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.navbar li {
+    list-style: none;
+    margin-left: 70px;
+}
+
+.navbar a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #b1a29d;
+    transition: 0.5s;
+}
+
+.navbar a:hover {
+    background-color: #996e60; 
+    padding: 10px;
+    border-radius: 40px;
+   text-decoration: underline;
+   color: #000000;
+    transform: scale(1.5);
+    
+    transition: all 0.75s;
+  
+}
+
+
+
+ 
+.texthead {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 80px;
+    margin-left: 180px;
+    color: #2d2b2c;
+}
+.textdd {
+    font-family:Arial, Helvetica, sans-serif;
+    
+    margin-top: 10px;
+    margin-left: 180px;
+    color: #996e60;
+}
+
+.bag a {
+    background-color: #2d2b2c;
+    color: #fff;
+    text-decoration: none;
+    margin-left: 400px;
+    padding: 10px;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+.bag a:hover {
+    padding: 15px;
+    transition: all 0.5s;
+    
+}
+ 
+.price {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 580px;
+    margin-top: -22PX;
+}
+.play {
+    margin-top: 120px;
+    margin-left: 1300px;
+
+}
+
+
+.shoes img {
+    height: 27.5%;
+    width: 27.5%;
+    margin-left: 900px;
+    margin-top: -650px;
+    transition: 0.75s;
+}
+
+.shoes :hover {
+    margin-top: -500px;
+    margin-left: 750px;
+    padding: -50px;
+    transform: scale(1.5) rotate(57.5deg);
+    transition: all 0.75s;
+}
+.url {
+    margin-top: 55px;
+    margin-left: 75%;
+}
